@@ -1,0 +1,2 @@
+# equivalencias
+Circuito equivalencias
